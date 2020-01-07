@@ -1,2 +1,2 @@
-echo "Hello World %date% " %time%"
-echo "I am in Defect Branch"
+echo "Hello World %date% : %time%"
+echo "Added from Defect Branch"
